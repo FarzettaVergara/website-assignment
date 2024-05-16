@@ -1,0 +1,47 @@
+
+
+h1{
+    padding-top: 150px;
+    text-align: center;
+  color: white;
+  margin-top: 100px;
+   font-size: 70px;
+   font-weight: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   text-shadow: 1px 1px 15px black;
+}
+
+p{
+   text-align: center;
+   color: white;
+   font-weight: lighter;
+   font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 8px black;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.392);
+    background-image: url(Screenshot\ 2024-05-16\ 1156455.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+            
+}
+
+.download-button { 
+    font-size: 20px;
+    background-color: rgb(25, 148, 42);
+    color: white;
+    border:none;
+    height: 70px;
+    width: 250px;
+    border-radius:8px;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-right:8px;
+    }
+
+    .download-button:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+      }
